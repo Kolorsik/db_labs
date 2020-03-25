@@ -1,0 +1,7 @@
+C:\University\! 6 sem\БД\3lab\3lab\bin\Debug\3lab.dll.config
+C:\University\! 6 sem\БД\3lab\3lab\bin\Debug\3lab.dll
+C:\University\! 6 sem\БД\3lab\3lab\bin\Debug\3lab.pdb
+C:\University\! 6 sem\БД\3lab\3lab\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\University\! 6 sem\БД\3lab\3lab\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\University\! 6 sem\БД\3lab\3lab\obj\Debug\3lab.dll
+C:\University\! 6 sem\БД\3lab\3lab\obj\Debug\3lab.pdb

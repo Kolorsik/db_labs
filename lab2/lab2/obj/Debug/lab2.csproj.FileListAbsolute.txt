@@ -1,0 +1,15 @@
+C:\University\! 6 sem\БД\lab2\lab2\bin\Debug\lab2.exe.config
+C:\University\! 6 sem\БД\lab2\lab2\bin\Debug\lab2.exe
+C:\University\! 6 sem\БД\lab2\lab2\bin\Debug\lab2.pdb
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\MainWindow.g.cs
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\App.g.cs
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\lab2_MarkupCompile.cache
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\lab2_MarkupCompile.lref
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\MainWindow.baml
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\lab2.g.resources
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\lab2.exe
+C:\University\! 6 sem\БД\lab2\lab2\obj\Debug\lab2.pdb
